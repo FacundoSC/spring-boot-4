@@ -6,5 +6,5 @@
 
 | Característica | Descripción | Detalles |
 |---------|-------------|---------|
-| [API Versioning](features/api-versioning/) | First-class API versioning support | Media type parameter versioning |
+| [API Versioning](caracteristicas/apiusers) | First-class API versioning support | Media type parameter versioning |
 
